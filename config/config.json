@@ -1,0 +1,15 @@
+{
+    "db": {
+        "database":"storage",
+        "username":"luo_stor",
+        "password":"sansui_stor",
+        "dialect":"mysql",
+        "timezone": "+08:00",
+        "pool": {
+            "max": 10,
+            "min": 2,
+            "acquire": 30000,
+            "idle": 10000
+          }
+    }
+}
