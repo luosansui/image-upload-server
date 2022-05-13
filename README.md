@@ -5,6 +5,6 @@
 > + 将`/utils/mountModel`里的`同步模型`再次注释掉
 > + `node app`起飞
 
-> 注: 如果遇到跨域问题请加载`koa-cors`包，附[链接](https://www.npmjs.com/package/koa-cors)
+> 注: 如果遇到跨域问题请加载`koa2-cors`包，附[链接](https://www.npmjs.com/package/koa2-cors)
 
 ![](./public/image/20220413/upload_7df17b53f31070dc083e835ff70a015a.jpg)
